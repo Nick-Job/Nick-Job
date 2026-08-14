@@ -34,15 +34,14 @@
 
 <br><br>
 
+<div style="border: 1px solid rgba(128,128,128,0.35); border-radius: 18px; padding: 20px 26px; max-width: 560px; margin: 0 auto; text-align: left">
+
 <b style="font-size: 15px">✦ Latest writing</b>
 
 <!-- BLOG-POST-LIST:START -->
-- [你好，世界 —— 博客重生记](https://nick-space-blog.vercel.app/article/hello-world/)
-- [注册美区 Apple ID，下载 ChatGPT、Claude 并开通官方订阅](https://nick-space-blog.vercel.app/article/us-apple-id-registration-guide/)
-- [Tailwind CSS 最佳实践：从混乱到优雅](https://nick-space-blog.vercel.app/article/tailwind-css-best-practices/)
-- [把你的PPT焦虑丢掉 - 只要6步从安装到导出](https://nick-space-blog.vercel.app/article/dashi-ppt-skill-guide/)
-- [AI 图片风格拆解系统](https://nick-space-blog.vercel.app/article/ai-image-style-deconstruction-prompt-system/)
 <!-- BLOG-POST-LIST:END -->
+
+</div>
 
 <br>
 
