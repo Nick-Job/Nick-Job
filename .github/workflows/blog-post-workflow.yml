@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
