@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="760" height="240" role="img" aria-label="Nick — Crafting calm, useful tools with AI">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a84ff"/>
+      <stop offset="50%" stop-color="#bf5af2"/>
+      <stop offset="100%" stop-color="#ff375f"/>
+    </linearGradient>
+  </defs>
+  <text x="380" y="116" text-anchor="middle" font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', system-ui, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5" fill="#1d1d1f">Nick</text>
+  <rect x="338" y="138" width="84" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="380" y="186" text-anchor="middle" font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', system-ui, sans-serif" font-size="21" font-weight="400" letter-spacing="0.2" fill="#86868b">Crafting calm, useful tools with AI</text>
+</svg>
