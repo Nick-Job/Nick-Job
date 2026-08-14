@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/Nick-Job?s=128" width="88" height="88" alt="Nick" style="border-radius: 50%; box-shadow: 0 0 0 1px rgba(128,128,128,0.25);">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" width="680" alt="Nick — Crafting calm, useful tools with AI">
@@ -25,6 +27,19 @@
 </table>
 
 <br><br>
+
+<img src="assets/contributions.svg" alt="Nick's contributions in the last year" style="max-width: 680px; width: 100%;">
+
+<sub style="color: #86868b">contributions · last 12 months</sub>
+
+<br><br>
+
+<b style="font-size: 15px">✦ Latest writing</b>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
 
 <sub style="color: #86868b">Designed by Nick · 2026</sub>
 
