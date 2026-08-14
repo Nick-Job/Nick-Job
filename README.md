@@ -41,6 +41,12 @@
 
 <br>
 
+<p style="font-size: 13px; color: #86868b">
+<a href="https://nick-space-blog.vercel.app/" style="color: inherit; text-decoration: none">Blog</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Nick-Job" style="color: inherit; text-decoration: none">GitHub</a>
+</p>
+
 <sub style="color: #86868b">Designed by Nick · 2026</sub>
 
 </div>
