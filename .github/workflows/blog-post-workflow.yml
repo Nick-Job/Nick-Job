@@ -16,7 +16,6 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # TODO: 替换成你的博客/公众号 RSS 地址（多个用英文逗号分隔）
-          feed_list: "https://example.com/feed.xml"
+          feed_list: "https://nick-space-blog.vercel.app/rss.xml"
           max_post_count: 5
           readme_path: README.md
