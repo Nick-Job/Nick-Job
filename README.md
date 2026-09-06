@@ -39,8 +39,8 @@
 <b style="font-size: 15px">✦ Latest writing</b>
 
 <!-- BLOG-POST-LIST:START --><div style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.10); line-height: 1.5">
-<a href="https://nick-space-blog.vercel.app/blog/hello-world/" style="color: inherit; text-decoration: none; font-size: 14px; font-weight: 500">你好，世界 —— 博客重生记</a>
-<div style="color: #86868b; font-size: 12px; margin-top: 2px">2026.08.01</div>
+<a href="https://nick-space-blog.vercel.app/blog/hello-world/" style="color: inherit; text-decoration: none; font-size: 14px; font-weight: 500">你好，世界 —— 博客又重生了</a>
+<div style="color: #86868b; font-size: 12px; margin-top: 2px">2026.09.06</div>
 </div><div style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.10); line-height: 1.5">
 <a href="https://nick-space-blog.vercel.app/blog/us-apple-id-registration-guide/" style="color: inherit; text-decoration: none; font-size: 14px; font-weight: 500">注册美区 Apple ID，下载 ChatGPT、Claude 并开通官方订阅</a>
 <div style="color: #86868b; font-size: 12px; margin-top: 2px">2026.07.28</div>
