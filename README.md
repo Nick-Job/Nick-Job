@@ -24,32 +24,17 @@ I build calm, useful things where **design meets AI** — AI-native workflows, m
 
 ## ✦ Contributions
 
-<img src="assets/contributions.svg" width="100%" alt="Nick's contributions in the last year">
+<img src="assets/contributions.svg" width="100%" alt="Nick's contributions in the last 26 weeks">
 
-<sub style="color: #86868b">contributions · last 12 months</sub>
-
-<br><br>
+<br>
 
 ## ✦ Latest Writing
 
-<!-- BLOG-POST-LIST:START --><div style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.10); line-height: 1.5">
-<a href="https://nick-space-blog.vercel.app/blog/hello-world/" style="color: inherit; text-decoration: none; font-size: 14px; font-weight: 500">你好，世界 —— 博客又重生了</a>
-<div style="color: #86868b; font-size: 12px; margin-top: 2px">2026.09.06</div>
-</div><div style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.10); line-height: 1.5">
-<a href="https://nick-space-blog.vercel.app/blog/us-apple-id-registration-guide/" style="color: inherit; text-decoration: none; font-size: 14px; font-weight: 500">注册美区 Apple ID，下载 ChatGPT、Claude 并开通官方订阅</a>
-<div style="color: #86868b; font-size: 12px; margin-top: 2px">2026.07.28</div>
-</div><div style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.10); line-height: 1.5">
-<a href="https://nick-space-blog.vercel.app/blog/tailwind-css-best-practices/" style="color: inherit; text-decoration: none; font-size: 14px; font-weight: 500">Tailwind CSS 最佳实践：从混乱到优雅</a>
-<div style="color: #86868b; font-size: 12px; margin-top: 2px">2026.07.25</div>
-</div><div style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.10); line-height: 1.5">
-<a href="https://nick-space-blog.vercel.app/blog/dashi-ppt-skill-guide/" style="color: inherit; text-decoration: none; font-size: 14px; font-weight: 500">把你的PPT焦虑丢掉 - 只要6步从安装到导出</a>
-<div style="color: #86868b; font-size: 12px; margin-top: 2px">2026.07.24</div>
-</div><div style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.10); line-height: 1.5">
-<a href="https://nick-space-blog.vercel.app/blog/ai-image-style-deconstruction-prompt-system/" style="color: inherit; text-decoration: none; font-size: 14px; font-weight: 500">AI 图片风格拆解系统</a>
-<div style="color: #86868b; font-size: 12px; margin-top: 2px">2026.07.21</div>
-</div><!-- BLOG-POST-LIST:END -->
+<img src="assets/writing.svg" width="100%" alt="Latest writing — newest posts from Nick's blog">
 
-<br>
+<sub style="color: #86868b">→ <a href="https://nick-space-blog.vercel.app/" style="color: inherit">nick-space-blog.vercel.app</a></sub>
+
+<br><br>
 
 <sub style="color: #86868b">
 <a href="https://nick-space-blog.vercel.app/" style="color: inherit; text-decoration: none">Blog</a>
