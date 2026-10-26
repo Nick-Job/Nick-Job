@@ -11,6 +11,12 @@
 
 **Designer · Engineer · Storyteller.** I build calm, useful things where design meets AI — from polished macOS apps and AI-native workflows to visual content people actually enjoy reading.
 
+<br>
+
+<a href="https://nick-space-blog.vercel.app/"><img src="https://img.shields.io/badge/Blog-nick--space-0a84ff?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
+<a href="https://nick-job.github.io/"><img src="https://img.shields.io/badge/Workspace-个人工作台-bf5af2?style=flat-square&logo=githubpages&logoColor=white" alt="Workspace"></a>
+<a href="https://github.com/Nick-Job?tab=followers"><img src="https://img.shields.io/github/followers/Nick-Job?style=flat-square&label=Followers&color=ff375f" alt="Followers"></a>
+
 <br><br>
 
 <table align="center" cellspacing="0" style="max-width: 640px; border-collapse: collapse">
@@ -26,13 +32,81 @@
   </tr>
 </table>
 
+</div>
+
+<br>
+
+## ✦ Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/Nick-Job/vertical-split-postcard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Job&repo=vertical-split-postcard&theme=tokyonight&hide_border=true" alt="vertical-split-postcard"></a></td>
+    <td><a href="https://github.com/Nick-Job/city-travel-poster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Job&repo=city-travel-poster&theme=tokyonight&hide_border=true" alt="city-travel-poster"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Nick-Job/image-collector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Job&repo=image-collector&theme=tokyonight&hide_border=true" alt="image-collector"></a></td>
+    <td><a href="https://github.com/Nick-Job/real-scene-character-stylizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Job&repo=real-scene-character-stylizer&theme=tokyonight&hide_border=true" alt="real-scene-character-stylizer"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Nick-Job/nick-job.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Job&repo=nick-job.github.io&theme=tokyonight&hide_border=true" alt="nick-job.github.io"></a></td>
+    <td><a href="https://github.com/Nick-Job/Real-time-fund-Revise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Job&repo=Real-time-fund-Revise&theme=tokyonight&hide_border=true" alt="Real-time-fund-Revise"></a></td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+## ✦ Skills & Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+
+**Frameworks & Platforms**
+
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+
+**AI Workflow**
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+<img src="https://img.shields.io/badge/AI_Skills-✦-bf5af2?style=flat-square" alt="AI Skills">
+
+</div>
+
+<br>
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nick-Job&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Nick's GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Job&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Nick-Job&theme=tokyonight&hide_border=true" alt="GitHub streak">
+
 <br><br>
 
 <img src="assets/contributions.svg" alt="Nick's contributions in the last year" style="max-width: 680px; width: 100%;">
 
 <sub style="color: #86868b">contributions · last 12 months</sub>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <div style="border: 1px solid rgba(128,128,128,0.35); border-radius: 18px; padding: 20px 26px; max-width: 560px; margin: 0 auto; text-align: left">
 
@@ -61,6 +135,8 @@
 
 <p style="font-size: 13px; color: #86868b">
 <a href="https://nick-space-blog.vercel.app/" style="color: inherit; text-decoration: none">Blog</a>
+&nbsp;·&nbsp;
+<a href="https://nick-job.github.io/" style="color: inherit; text-decoration: none">Workspace</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/Nick-Job" style="color: inherit; text-decoration: none">GitHub</a>
 </p>
