@@ -10,44 +10,15 @@ I build calm, useful things where **design meets AI** — AI-native workflows, m
 
 ## ✦ Focus
 
-<table width="100%" cellspacing="0" style="border-collapse: collapse">
-  <tr>
-    <td width="33%" style="padding: 4px 24px 4px 0; vertical-align: top">
-      <b style="font-size: 15px">Design</b><br>
-      <span style="color: #86868b; font-size: 13.5px; line-height: 1.7">视觉内容 · 排版<br>公众号 · 小红书 · PPT</span>
-    </td>
-    <td width="33%" style="padding: 4px 24px 4px 0; vertical-align: top">
-      <b style="font-size: 15px">Engineering</b><br>
-      <span style="color: #86868b; font-size: 13.5px; line-height: 1.7">AI 工具生态<br>macOS 工具 · Skill 开发</span>
-    </td>
-    <td width="33%" style="padding: 4px 0; vertical-align: top">
-      <b style="font-size: 15px">Storytelling</b><br>
-      <span style="color: #86868b; font-size: 13.5px; line-height: 1.7">AI 工作流教程<br>产品文档 · 经验分享</span>
-    </td>
-  </tr>
-</table>
+<img src="assets/focus.svg" width="100%" alt="Focus — Design · Engineering · Storytelling">
 
 <br>
 
 ## ✦ Selected Work
 
-<table width="100%" cellspacing="0" style="border-collapse: collapse">
-  <tr>
-    <td style="padding: 10px 16px 10px 0; border-bottom: 1px solid rgba(128,128,128,0.18); white-space: nowrap"><a href="https://github.com/Nick-Job/vertical-split-postcard" style="color: inherit; text-decoration: none; font-weight: 600">vertical-split-postcard</a></td>
-    <td style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.18); color: #86868b; font-size: 13.5px">Codex skill — 上图下画的竖版分栏明信片</td>
-    <td align="right" style="padding: 10px 0 10px 16px; border-bottom: 1px solid rgba(128,128,128,0.18); color: #86868b; font-size: 13.5px; white-space: nowrap">★ 17</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px 10px 0; border-bottom: 1px solid rgba(128,128,128,0.18); white-space: nowrap"><a href="https://github.com/Nick-Job/city-travel-poster" style="color: inherit; text-decoration: none; font-weight: 600">city-travel-poster</a></td>
-    <td style="padding: 10px 0; border-bottom: 1px solid rgba(128,128,128,0.18); color: #86868b; font-size: 13.5px">Codex skill — 清新极简的城市旅行海报</td>
-    <td align="right" style="padding: 10px 0 10px 16px; border-bottom: 1px solid rgba(128,128,128,0.18); color: #86868b; font-size: 13.5px; white-space: nowrap">★ 1</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px 10px 0; white-space: nowrap"><a href="https://github.com/Nick-Job/image-collector" style="color: inherit; text-decoration: none; font-weight: 600">image-collector</a></td>
-    <td style="padding: 10px 0; color: #86868b; font-size: 13.5px">浏览器扩展 — 图片采集与无水印素材提取</td>
-    <td align="right" style="padding: 10px 0 10px 16px; color: #86868b; font-size: 13.5px; white-space: nowrap">JavaScript</td>
-  </tr>
-</table>
+<img src="assets/work.svg" width="100%" alt="Selected work — vertical-split-postcard, city-travel-poster, image-collector">
+
+<sub style="color: #86868b">→ <a href="https://github.com/Nick-Job/vertical-split-postcard" style="color: inherit">vertical-split-postcard</a> · <a href="https://github.com/Nick-Job/city-travel-poster" style="color: inherit">city-travel-poster</a> · <a href="https://github.com/Nick-Job/image-collector" style="color: inherit">image-collector</a></sub>
 
 <br>
 
