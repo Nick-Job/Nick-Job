@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 264" width="880" height="264" role="img" aria-label="Nick — Designer, Engineer, Storyteller">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#101827"/>
+      <stop offset="100%" stop-color="#171233"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a84ff"/>
+      <stop offset="50%" stop-color="#bf5af2"/>
+      <stop offset="100%" stop-color="#ff375f"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0a84ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff375f" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#ff375f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="880" height="264" rx="24" fill="url(#bg)"/>
+  <circle cx="110" cy="30" r="170" fill="url(#glowBlue)"/>
+  <circle cx="790" cy="240" r="190" fill="url(#glowPink)"/>
+  <rect x="0" y="0" width="880" height="264" rx="24" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <text x="56" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="4" fill="#8ab6ff">HELLO, I AM</text>
+  <text x="52" y="158" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="6" fill="#ffffff">NICK</text>
+  <rect x="56" y="180" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="56" y="222" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" letter-spacing="2.5" fill="#c9d4e3">DESIGNER · ENGINEER · STORYTELLER</text>
+
+  <text x="824" y="222" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#7d8aa0">crafting calm, useful tools with AI</text>
+</svg>
