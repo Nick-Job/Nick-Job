@@ -9,15 +9,15 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1400&color=0A84FF&center=true&vCenter=true&width=660&lines=Crafting+calm%2C+useful+tools+with+AI;Design+-+Engineering+-+Storytelling;AI+Skills+%2F+macOS+Tools+%2F+Visual+Content" alt="What Nick does">
+**Designer · Engineer · Storyteller.** I build calm, useful things where design meets AI — from polished macOS apps and AI-native workflows to visual content people actually enjoy reading.
 
 <br>
 
-**Designer · Engineer · Storyteller.** I build calm, useful things where design meets AI.
+<div style="max-width: 680px; margin: 0 auto; border-top: 1px solid rgba(128,128,128,0.25)"></div>
 
-<br><br>
+<br>
 
-<table align="center" cellspacing="0" style="max-width: 640px; border-collapse: collapse">
+<table align="center" cellspacing="0" style="width: 680px; max-width: 100%; border-collapse: collapse">
   <tr>
     <td align="center" style="padding: 8px 20px; font-weight: 600; font-size: 16px">✦ Design</td>
     <td align="center" style="padding: 8px 20px; font-weight: 600; font-size: 16px">✦ Engineering</td>
@@ -30,17 +30,39 @@
   </tr>
 </table>
 
-<br><br>
+<br>
+
+<div style="max-width: 680px; margin: 0 auto; border-top: 1px solid rgba(128,128,128,0.25)"></div>
+
+<br>
 
 <b style="font-size: 15px">✦ Selected work</b>
 
 <br><br>
 
-<a href="https://github.com/Nick-Job/vertical-split-postcard" style="color: inherit; text-decoration: none; font-weight: 600">vertical-split-postcard</a> <sub style="color: #86868b">★ 17 · Codex skill — 上图下画的竖版明信片</sub><br>
-<a href="https://github.com/Nick-Job/city-travel-poster" style="color: inherit; text-decoration: none; font-weight: 600">city-travel-poster</a> <sub style="color: #86868b">Codex skill — 极简城市旅行海报</sub><br>
-<a href="https://github.com/Nick-Job/image-collector" style="color: inherit; text-decoration: none; font-weight: 600">image-collector</a> <sub style="color: #86868b">浏览器扩展 — 图片采集与无水印素材提取</sub>
+<table align="center" cellspacing="0" style="width: 680px; max-width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="padding: 7px 12px 7px 0; font-size: 14px; white-space: nowrap"><a href="https://github.com/Nick-Job/vertical-split-postcard" style="color: inherit; text-decoration: none; font-weight: 600">vertical-split-postcard</a></td>
+    <td style="padding: 7px 0; color: #86868b; font-size: 13.5px">Codex skill — 上图下画的竖版分栏明信片</td>
+    <td align="right" style="padding: 7px 0 7px 12px; color: #86868b; font-size: 13.5px; white-space: nowrap">★ 17</td>
+  </tr>
+  <tr>
+    <td style="padding: 7px 12px 7px 0; font-size: 14px; white-space: nowrap"><a href="https://github.com/Nick-Job/city-travel-poster" style="color: inherit; text-decoration: none; font-weight: 600">city-travel-poster</a></td>
+    <td style="padding: 7px 0; color: #86868b; font-size: 13.5px">Codex skill — 清新极简的城市旅行海报</td>
+    <td align="right" style="padding: 7px 0 7px 12px; color: #86868b; font-size: 13.5px; white-space: nowrap">★ 1</td>
+  </tr>
+  <tr>
+    <td style="padding: 7px 12px 7px 0; font-size: 14px; white-space: nowrap"><a href="https://github.com/Nick-Job/image-collector" style="color: inherit; text-decoration: none; font-weight: 600">image-collector</a></td>
+    <td style="padding: 7px 0; color: #86868b; font-size: 13.5px">浏览器扩展 — 图片采集与无水印素材提取</td>
+    <td align="right" style="padding: 7px 0 7px 12px; color: #86868b; font-size: 13.5px; white-space: nowrap">JS</td>
+  </tr>
+</table>
 
-<br><br>
+<br>
+
+<div style="max-width: 680px; margin: 0 auto; border-top: 1px solid rgba(128,128,128,0.25)"></div>
+
+<br>
 
 <img src="assets/contributions.svg" alt="Nick's contributions in the last year" style="max-width: 680px; width: 100%;">
 
@@ -48,7 +70,11 @@
 
 <br><br>
 
-<div style="border: 1px solid rgba(128,128,128,0.35); border-radius: 18px; padding: 20px 26px; max-width: 560px; margin: 0 auto; text-align: left">
+<div style="max-width: 680px; margin: 0 auto; border-top: 1px solid rgba(128,128,128,0.25)"></div>
+
+<br>
+
+<div style="border: 1px solid rgba(128,128,128,0.35); border-radius: 18px; padding: 20px 26px; max-width: 680px; margin: 0 auto; text-align: left; box-sizing: border-box">
 
 <b style="font-size: 15px">✦ Latest writing</b>
 
