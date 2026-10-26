@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 328" width="880" height="328" role="img" aria-label="Latest writing">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#101827"/>
+      <stop offset="100%" stop-color="#171233"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="880" height="328" rx="24" fill="url(#bg)"/>
+  <rect x="0" y="0" width="880" height="328" rx="24" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="56" y1="80" x2="824" y2="80" stroke="#ffffff" stroke-opacity="0.08"/><line x1="56" y1="136" x2="824" y2="136" stroke="#ffffff" stroke-opacity="0.08"/><line x1="56" y1="192" x2="824" y2="192" stroke="#ffffff" stroke-opacity="0.08"/><line x1="56" y1="248" x2="824" y2="248" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="56" y="59" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#7d8aa0">2026.09.06</text><text x="196" y="59" font-family="'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="15" font-weight="500" fill="#ffffff">你好，世界 —— 博客又重生了</text><text x="56" y="115" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#7d8aa0">2026.07.28</text><text x="196" y="115" font-family="'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="15" font-weight="500" fill="#ffffff">注册美区 Apple ID，下载 ChatGPT、Claude 并开通官方订阅</text><text x="56" y="171" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#7d8aa0">2026.07.25</text><text x="196" y="171" font-family="'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="15" font-weight="500" fill="#ffffff">Tailwind CSS 最佳实践：从混乱到优雅</text><text x="56" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#7d8aa0">2026.07.24</text><text x="196" y="227" font-family="'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="15" font-weight="500" fill="#ffffff">把你的PPT焦虑丢掉 - 只要6步从安装到导出</text><text x="56" y="283" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#7d8aa0">2026.07.21</text><text x="196" y="283" font-family="'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="15" font-weight="500" fill="#ffffff">AI 图片风格拆解系统</text>
+</svg>
